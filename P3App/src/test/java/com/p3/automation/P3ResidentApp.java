@@ -33,8 +33,6 @@ public class P3ResidentApp {
         ;
         if (appiumServer == null)
             throw new RuntimeException("Runtime construct the appium server url");
-
-
     }
 
 
